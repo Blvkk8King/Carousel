@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+.navbar{
+    background-color: #660c17;
+}
+
+.navbar-brand{
+    font-family: Dosis;
+    /* font-size: 36px; */
+}
+
+.fa-ghost{
+    margin-left: 15px;
+    color: #d2d1be;
+}
+
+.carousel img{
+    width: 95%;
+    max-width: 1500px;
+    height: 800px;
+    margin-top: 25px;
+    transform: translateX(25px)
+}
+
+.d-block1{
+    border: 8px solid #a7b0e9;
+}
+
+.d-block2{
+    border: 8px solid #885947;
+}
+
+.d-block3{
+    border: 8px solid #7d7d6f;
+}
+
+.carousel-indicators{
+    background-color: #d2d1be;
+    border-radius: 20px;
+}
+
+/* button{
+    border: 5px solid #d2d1be;
+} */
+
