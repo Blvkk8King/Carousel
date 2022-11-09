@@ -19,7 +19,8 @@
     max-width: 1500px;
     height: 800px;
     margin-top: 25px;
-    transform: translateX(25px)
+    transform: translateX(25px);
+    border-radius: 100px;
 }
 
 .d-block1{
